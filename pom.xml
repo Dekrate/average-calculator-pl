@@ -41,7 +41,6 @@
             <artifactId>javafx-swing</artifactId>
             <version>20.0.1</version>
         </dependency>
-
         <dependency>
             <groupId>com.dlsc.formsfx</groupId>
             <artifactId>formsfx-core</artifactId>
@@ -120,7 +119,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                pl.diakowski.averagecalculatorpl/pl.diakowski.averagecalculatorpl.HelloApplication
+                                pl.diakowski.averagecalculatorpl/pl.diakowski.averagecalculatorpl.AverageCalculator
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
